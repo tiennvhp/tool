@@ -1,0 +1,89 @@
+$color-1: #6E1C1A;
+$color-2: #932522;
+$color-3: #A62A27;
+$color-4: #CA332F;
+$color-5: #E53935;
+$color-6: #FF5753;
+$color-7: #FF6B67;
+$color-8: #FF938F;
+$color-9: #FFBBB7;
+$color-10: #FFECE9;
+$color-11: #FFF5F3;
+
+
+$color-12: #2E3038;
+$color-13: #464850;
+$color-14: #5E6068;
+$color-15: #767880;
+$color-16: #8E9098;
+$color-17: #BEC0C8;
+$color-18: #D6D8E0;
+$color-19: #E2E4EC;
+$color-20: #E8EAEE;
+$color-21: #F3F4F6;
+$color-22: #F8F8FA;
+
+$color-23: #284377;
+$color-24: #35599F;
+$color-25: #3C64B3;
+$color-26: #497ADA;
+$color-27: #528AF8;
+$color-28: #6E9DFA;
+$color-29: #86ADFB;
+$color-30: #A9C5FC;
+$color-31: #C8DAFD;
+$color-32: #E8F0FC;
+
+
+$color-33: #0E5B29;
+$color-34: #127A37;
+$color-35: #158A3E;
+$color-36: #19A74B;
+$color-37: #1CBE55;
+$color-38: #41C971;
+$color-39: #60D288;
+$color-40: #8EDFAA;
+$color-41: #B7EBC9;
+$color-42: #DCF8E6;
+
+
+$color-43: #7A3724;
+$color-44: #A24930;
+$color-45: #B75236;
+$color-46: #DF6442;
+$color-47: #FC704B;
+$color-48: #FE8868;
+$color-49: #FE9C80;
+$color-50: #FEB8A5;
+$color-51: #FFD2C5;
+$color-52: #FFF0E3;
+
+
+$color-53: #9A000C;
+$color-54: #AE0020;
+$color-55: #C21234;
+$color-56: #D62648;
+$color-57: #EA3A5C;
+$color-58: #FE4E70;
+$color-59: #FF6C8E;
+$color-60: #FF8AAC;
+$color-61: #FFC6E8;
+$color-62: #FFC6E8;
+
+
+$color-63: #4E1794;
+
+$color-64: #F5A623;
+$color-65: #375AAB;
+    $color-66: #000000;
+      
+    $color-67: #FFFFFF;
+      
+    $color-68: #E8F9EE;
+      
+    $color-69: #CC1042;
+      
+    $color-70: #7661E9;
+      
+    $color-71: #333333;
+      

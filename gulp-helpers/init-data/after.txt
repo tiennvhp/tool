@@ -1,0 +1,74 @@
+.after-1 {
+	&:after {
+		content: '';
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		height: 2px;
+	}
+}
+
+.after-2 {
+	position: relative;
+	&:after {
+	    position: absolute;
+	    content: '';
+	    width: 2px;
+	    height: 2px;
+	    background: $color-66;
+	    right: -4px;
+	    top: 7px;
+	}
+}
+
+.after-3 {
+	position: relative;
+	&:after {
+		position: absolute;
+		content: '';
+		width: 1px;
+		height: 100%;
+		right: 0px;
+		top: 0px;
+		background: $color-21;
+	}
+}
+
+.after-4 {
+	position: relative;
+	&:after {
+		content: '';
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+		height: 2px;
+		width: 100%;
+		background-color: $color-5;
+	}
+}
+
+.after-5 {
+	position: relative;
+	&:after {
+		content: '';
+		position: absolute;
+		width: 8px;
+		height: 8px;
+		background-color: $color-5;
+		border-radius: 100%;
+		top: -6px;
+		left: 16px;
+	}
+}
+
+.after-6 {
+	&:after {
+		position: absolute;
+		content: '';
+		height: 2px;
+		width: 50%;
+		background-color: $color-5;
+		bottom: 0px;
+		left: 0px;
+	}
+}

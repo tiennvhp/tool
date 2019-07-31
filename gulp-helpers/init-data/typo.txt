@@ -1,0 +1,189 @@
+
+
+
+.hero-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: normal;
+}
+
+.h1-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 32px;
+}
+
+.h2-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 30px;
+}
+
+.h3-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: normal;
+}
+
+.h4-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: normal;
+}
+
+.h5-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: normal;
+}
+
+.h6-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: normal;
+}
+
+.h7-md {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: normal;
+}
+
+
+.hero-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: normal;
+}
+.hero-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+
+    font-size: 26px;
+    font-weight: normal;
+    line-height: 36px;
+}
+
+.h1-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: normal;
+}
+
+.h1-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: normal;
+}
+
+
+.h2-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+}
+
+.h2-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: normal;
+}
+
+.h3-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: normal;
+}
+
+.h3-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: normal;
+}
+
+.h4-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: normal;
+}
+
+.h4-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: normal;
+}
+
+.h5-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: normal;
+}
+
+.h5-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: normal;
+}
+
+
+.h8-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: normal;
+}
+
+.sale-tag {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: bold;
+}
+
+.h6-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: normal;
+}
+
+.h6-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: normal;
+}
+
+.h7-re {
+    font-family: 'Roboto-Regular', sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: normal;
+}
+
+.h7-bo {
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: normal;
+}

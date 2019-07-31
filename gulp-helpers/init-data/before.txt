@@ -1,0 +1,12 @@
+.before-2 {
+	position: relative;
+	&:before {
+	    position: absolute;
+	    content: '';
+	    width: 2px;
+	    height: 2px;
+	    background: $color-66;
+	    right: -4px;
+	    top: 14px;
+	}
+}
